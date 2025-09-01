@@ -6,7 +6,7 @@ A sleek, responsive, and secure single-page weather application built with moder
 
 ## 🚀 Live Demo
 
-weather-app-murex-five-33.vercel.app
+[weather-app-murex-five-33.vercel.app](https://weather-app-murex-five-33.vercel.app/)
 
 ---
 
