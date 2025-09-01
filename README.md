@@ -1,17 +1,17 @@
-# ☀️ Dynamic Weather Forecast App
+#  Dynamic Weather Forecast App
 ![Dynamic Weather App Screenshot](https://github.com/Shubinstan/weather-app/blob/main/screenshots/weather_screenshot.png?raw=true)
 
 A sleek, responsive, and secure single-page weather application built with modern front-end technologies. This project fetches and displays real-time weather data from the OpenWeatherMap API, featuring a dynamic UI that adapts to weather conditions and user preferences.
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 [weather-app-murex-five-33.vercel.app](https://weather-app-murex-five-33.vercel.app/)
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 -   **Real-time Data:** Fetches current weather and a 5-day forecast from the OpenWeatherMap API.
 -   **Dynamic UI:** The background and animated effects (rain, snow, clouds) change based on the selected day's weather.
@@ -25,7 +25,7 @@ A sleek, responsive, and secure single-page weather application built with moder
 
 ---
 
-## 🛠️ Tech Stack & Skills Demonstrated
+##  Tech Stack & Skills Demonstrated
 
 This project showcases a comprehensive set of modern front-end development skills:
 
@@ -57,7 +57,7 @@ This project showcases a comprehensive set of modern front-end development skill
 
 ---
 
-## 📦 Setup and Installation
+## Setup and Installation
 
 To run this project locally, follow these steps:
 
