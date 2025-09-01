@@ -6,7 +6,7 @@ A sleek, responsive, and secure single-page weather application built with moder
 
 ## 🚀 Live Demo
 
-*[Link to your deployed website on Netlify/Vercel will go here]*
+[weather-app-murex-five-33.vercel.app](https://weather-app-murex-five-33.vercel.app/)
 
 ---
 
